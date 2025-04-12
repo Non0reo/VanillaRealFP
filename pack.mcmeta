@@ -1,0 +1,10 @@
+{
+    "pack": {
+      "description": "Real First Person by §eNon0reo",
+      "pack_format": 56,
+      "supported_formats": {
+        "max_inclusive": 72,
+        "min_inclusive": 56
+      }
+    }
+}
